@@ -25,34 +25,7 @@ I build intelligent AI systems that solve real problems, from **RAG-powered chat
 
 ---
 
----
-
 ## 🛠️ Tech Stack
-
-<table>
-  <tr>
-    <td valign="top" width="33%">
-
-**🤖 AI & LLMs**
-- LangChain · LlamaIndex
-- RAG · FAISS · Vector DBs
-- OpenAI · Gemini · Groq
-- Hugging Face · Transformers
-- Prompt Engineering
-
-  </td>
-  <td valign="top" width="33%">
-
-**⚡ Automation**
-- Make.com · n8n
-- Voiceflow
-- API integrations
-- Workflow design
-- AI Agent pipelines
-
-  </td>
-  </tr>
-</table>
 
 <div align="center">
 
