@@ -1,6 +1,6 @@
 # Hi there, I'm Muneeba Umar 👋
 
-🤖 **Generative AI Developer | RAG Systems | LLM Chatbots | Automation**
+🤖 **Generative AI Developer | RAG Systems | LLM Chatbots | Automation**<br>
 📍 Peshawar, Pakistan · CS Student @ IMSciences · Freelancer
 
 <div align="center">
