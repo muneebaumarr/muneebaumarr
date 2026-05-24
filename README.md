@@ -1,6 +1,6 @@
 # Hi there, I'm Muneeba Umar 👋
 
-🤖 **AI Developer | RAG Systems | LLM Chatbots | Automation**
+🤖 **Generative AI Developer | RAG Systems | LLM Chatbots | Automation**
 📍 Peshawar, Pakistan · CS Student @ IMSciences · Freelancer
 
 <div align="center">
@@ -16,7 +16,7 @@
 
 ## 👩‍💻 About Me
 
-I build intelligent AI systems that solve real problems — from **RAG-powered chatbots** to **multi-agent pipelines** and **no-code automation workflows**. Passionate about LLMs, conversational AI, and making AI accessible.
+I build intelligent AI systems that solve real problems, from **RAG-powered chatbots** to **multi-agent pipelines** and **no-code automation workflows**. Passionate about LLMs, conversational AI, and making AI accessible.
 
 - 🏆 Hackathon winner (1st place)
 - 🎓 2nd-year CS student with 2+ years hands-on AI experience
@@ -24,32 +24,6 @@ I build intelligent AI systems that solve real problems — from **RAG-powered c
 - 🌐 Portfolio website launching **June 2026**
 
 ---
-
-## `whoami`
-
-```python
-class MuneebaUmar:
-    name       = "Muneeba Umar"
-    role       = "AI Developer · CS Student · Freelancer"
-    location   = "Peshawar, Pakistan 🇵🇰"
-    university = "IMSciences — 2nd Year Computer Science"
-
-    focus = [
-        "RAG Systems & LLM Chatbots",
-        "AI Agents with Memory & Planning",
-        "Workflow Automation (Make.com · n8n)",
-        "Data Science & Deep Learning",
-    ]
-
-    achievements = [
-        "🏆 1st Place — Hackathon Winner",
-        "🤖 2+ years building real AI systems",
-        "📚 Generative AI with LLMs (DeepLearning.AI)",
-        "💼 Open to freelance AI projects",
-    ]
-
-    dream = "Build AGI-level conversational systems 🚀"
-```
 
 ---
 
@@ -75,16 +49,6 @@ class MuneebaUmar:
 - API integrations
 - Workflow design
 - AI Agent pipelines
-
-  </td>
-  <td valign="top" width="33%">
-
-**📊 Data & Backend**
-- Python · Flask · MySQL
-- Pandas · NumPy · Matplotlib
-- Scikit-learn · TensorFlow
-- Seaborn · Streamlit
-- SQLAlchemy
 
   </td>
   </tr>
@@ -121,31 +85,6 @@ class MuneebaUmar:
 | [**PDF RAG Chatbot with Memory**](https://github.com/muneebaumarr/pdf-rag-chatbot-with-memory) | Upload any PDF and have a full conversation with it — maintains chat history and context across turns. | LangChain · FAISS · Python |
 | [**AlertX — AI Surveillance System**](https://github.com/muneebaumarr/AlertX-V1-AI-Secure-Surveillance-System) | Real-time suspicious activity detection using computer vision and deep learning with instant alert triggers. | Python · CV · Deep Learning |
 
-### 📊 Data Science & Machine Learning
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [**Sentiment Analysis — Simple RNN**](https://github.com/muneebaumarr/Sentiment-Analysis-using-Simple-RNN) | Streamlit app that classifies IMDB movie reviews as positive/negative; demonstrates RNN limitations in NLP. | TensorFlow · Streamlit · NLP |
-| [**ANN Customer Churn Prediction**](https://github.com/muneebaumarr/ANN-Classification-Churn) | Deep learning model that predicts whether a customer will leave or stay — trained on real churn datasets. | TensorFlow · Pandas · ANN |
-| [**Titanic EDA & Visualization**](https://github.com/muneebaumarr/Titanic-EDA-and-Visualization) | Full exploratory data analysis pipeline: cleaning, feature engineering, missing values, and visual insights. | Pandas · Seaborn · Matplotlib |
-
-### 🌐 Web Applications
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [**To-Do Web App**](https://github.com/muneebaumarr/to_do) | Full-stack CRUD task manager deployed live on PythonAnywhere — clean UI, persistent storage. | Flask · HTML · Bootstrap |
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=muneebaumarr&show_icons=true&theme=tokyonight&hide_border=true&title_color=A855F7&icon_color=A855F7&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true&count_private=true" height="160"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muneebaumarr&layout=compact&theme=tokyonight&hide_border=true&title_color=A855F7&text_color=c9d1d9&bg_color=0d1117" height="160"/>
-
-</div>
 
 <div align="center">
 
