@@ -54,7 +54,7 @@ I build intelligent AI systems that solve real problems, from **RAG-powered chat
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [**AI Social Media Automation Platform**](https://github.com/muneebaumarr/AI-Social-Media-Automation-Platform) | Web system that auto-drafts, repurposes, schedules & analyzes social media posts using AI. Full approval workflow + analytics dashboard. | Flask · MySQL · LLM · Python |
+| [**AI Social Media Automation Platform**](https://github.com/muneebaumarr/AI-Social-Media-Automation-Platform) | Web system that auto-drafts, repurposes, schedules & analyzes social media posts using AI. Full approval workflow + analytics dashboard. | FastAPI · MySQL · LLM · Python |
 | [**AI Content Analyst**](https://github.com/muneebaumarr/AI-Content-Analyst) | Chat with YouTube videos and web articles using RAG — ask questions, get answers grounded in real content. | LangChain · Groq · FAISS |
 | [**PDF RAG Chatbot with Memory**](https://github.com/muneebaumarr/pdf-rag-chatbot-with-memory) | Upload any PDF and have a full conversation with it — maintains chat history and context across turns. | LangChain · FAISS · Python |
 | [**AlertX — AI Surveillance System**](https://github.com/muneebaumarr/AlertX-V1-AI-Secure-Surveillance-System) | Real-time suspicious activity detection using computer vision and deep learning with instant alert triggers. | Python · CV · Deep Learning |
